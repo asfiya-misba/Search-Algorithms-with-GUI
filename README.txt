@@ -1,21 +1,9 @@
-DAA - PROGRAMMING PROJECT
+Search Algorithms with GUI
 
-Name: Asfiya Misba
-UTA ID: 1002028239
+Project Overview: Developed a comprehensive application to demonstrate various search algorithms, including Linear Search, Binary Search, Binary Search Tree (BST), and Red-Black Tree. The project includes a graphical user interface (GUI) built using Tkinter to provide an interactive way to visualize and understand these algorithms.
+Key Features:
 
-Language: Python 3.10
-
-There are 3 py files:
-	1. without_gui.py - code without gui
-	2. with_gui.py - code with gui
-	3. graph.py - code to generate the graphs
-
-Images of the graphs generated are also included in the folder.
-
-Steps to execute:
-1. Copy all the contents of the folder.
-2. To run the code without gui, i.e., on the console use,
-		python without_gui.py 
-3. To run the code with GUI use, 
-		python with_gui.py
-4. python graph.py will show the plot of graphs.
+    Linear Search: Implemented a straightforward search algorithm to find elements in a list sequentially.
+    Binary Search: Developed an efficient algorithm to search for elements in a sorted list by repeatedly dividing the search interval in half.
+    Binary Search Tree (BST): Created a data structure that facilitates fast lookup, addition, and deletion of items using tree nodes.
+    Red-Black Tree: Implemented a self-balancing binary search tree that ensures the tree remains balanced, providing efficient search times.
